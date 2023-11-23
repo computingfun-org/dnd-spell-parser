@@ -1,3 +1,5 @@
+pub mod dnd_beyond;
+
 fn main() {
-    println!("Hello, world!");
+    dnd_beyond::main();
 }
